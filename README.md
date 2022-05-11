@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elías Madera De Regil</h1>
 <h3 align="center">A passionate Software Engineering student from Mexico</h3>
 
-- 🔭 I’m currently working on: [LinkedJob](https://github.com/EliasMaDeRe/PE1)
+- 🔭 I’m currently working on: [LinkJob](https://github.com/EliasMaDeRe/PE1)
 
 - 🌱 I’m currently learning: **Java, Python, Salesforce**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/10rt7ThSdK80SCfT_IgyETqD8bZPcM2DK/view?usp=sharing)
 
-- ⚡ Fun fact **I have two dachshunds 🐾**
+- ⚡ Fun fact: **I have two dachshunds 🐾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
