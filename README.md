@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **elias.madera@hotmail.com**
 
-- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/1ijL32dQeEdd2znznIaMCqwNvgTbmquNU/view?usp=sharing)
+- 📄 Know about my experiences: [My resume](https://drive.google.com/file/d/1ZLgxgVSTMON8MNmtRGgTRUgXOpEWLjbb/view?usp=sharing)
 
 - ⚡ Fun fact: **I have two dachshunds 🐾**
 
