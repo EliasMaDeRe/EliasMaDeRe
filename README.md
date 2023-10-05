@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elías Madera De Regil</h1>
 <h3 align="center">A passionate Software Engineering student from Mexico</h3>
 
-- 🔭 I’m currently working on: [LinkJob](https://github.com/EliasMaDeRe/PE1)
+- 🔭 I’m currently working on: [FleetWise](https://github.com/EliasMaDeRe/FleetWise)
 
-- 🌱 I’m currently learning: **Java, Python, Salesforce**
+- 🌱 I’m currently learning: **Go, building Webapps**
 
-- 💬 Ask me about: **C++, Salesforce, Competitive programming, UCP**
+- 💬 Ask me about: **Competitive programming, Interning at Uber, Salesforce**
 
 - 📫 How to reach me: **elias.madera@hotmail.com**
 
